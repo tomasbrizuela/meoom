@@ -15,3 +15,8 @@ IDEA:
 - un coso en la pantalla esa para frenarlo y guardarlo
 - cuando apretás el de guardar, que te genere un link automaticamente para compartirlo
 - y que se guarde
+
+Componentes:
+- Boton Grabar
+- cartel medios
+- start recording
