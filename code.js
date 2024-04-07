@@ -46,3 +46,10 @@ close.addEventListener('click',function(){
     options = false;
     back.style.display = "none"
 })
+
+back.addEventListener('click',function(){
+    popup.style.height = "0px"; 
+    popup.style.visibility = "hidden"; 
+    options = false;
+    back.style.display = "none"
+})

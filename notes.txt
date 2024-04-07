@@ -20,3 +20,9 @@ Componentes:
 - Boton Grabar
 - cartel medios
 - start recording
+
+
+
+TAREAS: 
+- Agregar los toggles para video y mic
+- configurar media stream

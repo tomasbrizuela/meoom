@@ -136,6 +136,7 @@ i {
   background-color: rgba(0, 0, 0, 0.201); /* Color de fondo semitransparente */
   z-index: 1; /* Asegúrate de que el overlay esté por encima de todo lo demás */
   display: none; /* Inicialmente oculto */
+  transition: 0.5s ease;
 }
 
 .start p {
