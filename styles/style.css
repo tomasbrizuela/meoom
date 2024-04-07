@@ -1,7 +1,6 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 body{
@@ -9,16 +8,15 @@ body{
     padding: 0;
 }
 
-header{
 
+
+
+main h1{
+    font-size: 80px;
+    font-family: monospace;
+    text-align: center;
 }
-section{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-}
-button{
+section button{
     background: rgb(195, 65, 202);
     width: 140px;
     height: 40px;
