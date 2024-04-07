@@ -1,27 +1,5 @@
-*{
-    margin: 0;
-    padding: 0;
+h1 {
+  color: red;
 }
 
-body{
-    margin: 0;
-    padding: 0;
-}
-
-
-
-
-main h1{
-    font-size: 80px;
-    font-family: monospace;
-    text-align: center;
-}
-section button{
-    background: rgb(195, 65, 202);
-    width: 140px;
-    height: 40px;
-    border: 1px solid white;
-    box-shadow: 1px 1px 10px rgb(189, 186, 186);
-    border-radius: 10px;
-    
-}
+/*# sourceMappingURL=style.css.map */
